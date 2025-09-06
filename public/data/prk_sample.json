@@ -1,0 +1,22 @@
+[
+  {
+    "prk_code": "123456",
+    "prk_description": "Naproxen tablet 250 mg"
+  },
+  {
+    "prk_code": "123457",
+    "prk_description": "Naproxen tablet 500 mg"
+  },
+  {
+    "prk_code": "223344",
+    "prk_description": "Paracetamol tablet 500 mg"
+  },
+  {
+    "prk_code": "998877",
+    "prk_description": "Ibuprofen capsule 400 mg"
+  },
+  {
+    "prk_code": "445566",
+    "prk_description": "Amoxicilline capsule 500 mg"
+  }
+]
